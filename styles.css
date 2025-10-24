@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=roboto:ital,wght@0,200..800;1,200..800&family=Plus Jakarta Sans:ital,wght@0,200..800;1,200..800');
 body{
-
+    /* height: 100%; */
 }
 .container{
     background-color: #fdfdfd;
     display: flex;
-    height: 100vh;
+    height: 100%;
     /* width: 100vw; */
     align-items: center;
     justify-content: center;
